@@ -166,8 +166,4 @@ To deepen your understanding, refer to the following:
 
 ---
 
-## Conclusion
-
-These exercises are designed to provide hands-on practice with complex database concepts. Completing all assignments will significantly improve your ability to design, query, and optimize relational databases.
-
 Happy coding! 🚀
